@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordLibrary", "WordLibrary\WordLibrary.csproj", "{68D4F7C3-223C-4BB2-BAA2-7E5D363D3686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeServices", "NamedPipeServices\NamedPipeServices.csproj", "{CF2DCB60-51BB-4D2E-8BBE-1B79DEE5979F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D4F7C3-223C-4BB2-BAA2-7E5D363D3686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D4F7C3-223C-4BB2-BAA2-7E5D363D3686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D4F7C3-223C-4BB2-BAA2-7E5D363D3686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D4F7C3-223C-4BB2-BAA2-7E5D363D3686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2DCB60-51BB-4D2E-8BBE-1B79DEE5979F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2DCB60-51BB-4D2E-8BBE-1B79DEE5979F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2DCB60-51BB-4D2E-8BBE-1B79DEE5979F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2DCB60-51BB-4D2E-8BBE-1B79DEE5979F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5485E1DD-9AA2-453E-ACA3-4B8D7421B40E}
+	EndGlobalSection
+EndGlobal

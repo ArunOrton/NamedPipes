@@ -1,0 +1,10 @@
+C:\Repo\Personal\NamedPipes\NamedPipes\NamedPipeServices\bin\Debug\NamedPipeServices.exe.config
+C:\Repo\Personal\NamedPipes\NamedPipes\NamedPipeServices\bin\Debug\NamedPipeServices.exe
+C:\Repo\Personal\NamedPipes\NamedPipes\NamedPipeServices\bin\Debug\NamedPipeServices.pdb
+C:\Repo\Personal\NamedPipes\NamedPipes\NamedPipeServices\bin\Debug\WordLibrary.dll
+C:\Repo\Personal\NamedPipes\NamedPipes\NamedPipeServices\bin\Debug\WordLibrary.pdb
+C:\Repo\Personal\NamedPipes\NamedPipes\NamedPipeServices\obj\Debug\NamedPipeServices.csproj.AssemblyReference.cache
+C:\Repo\Personal\NamedPipes\NamedPipes\NamedPipeServices\obj\Debug\NamedPipeServices.csproj.CoreCompileInputs.cache
+C:\Repo\Personal\NamedPipes\NamedPipes\NamedPipeServices\obj\Debug\NamedPipeServices.csproj.CopyComplete
+C:\Repo\Personal\NamedPipes\NamedPipes\NamedPipeServices\obj\Debug\NamedPipeServices.exe
+C:\Repo\Personal\NamedPipes\NamedPipes\NamedPipeServices\obj\Debug\NamedPipeServices.pdb
